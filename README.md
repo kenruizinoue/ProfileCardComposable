@@ -6,7 +6,7 @@
 
 ## Medium Article
 
-This project is accompanied by a detailed Medium article titled "Intermediate Android Compose - Profile Card." You can read the article [here]().
+This project is accompanied by a detailed Medium article titled "Intermediate Android Compose - Profile Card." You can read the article [here](https://medium.com/@kenruizinoue/intermediate-android-compose-profile-card-6a7e1b9e32b6).
 
 ## Overview
 
